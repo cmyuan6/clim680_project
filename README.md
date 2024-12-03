@@ -28,3 +28,15 @@ For El Niño events, positive precipitation anomalies were observed in the easte
 ![difference](https://github.com/cmyuan6/clim680_project/blob/main/differences%20neg.png)
 
 Two plots were generated to show the mean differences between positive and negative composites, with areas of statistical significance indicated by the 95% confidence interval. The plots highlight regions where the differences in composite precipitation between the two event types are statistically significant.
+
+## Correlation
+
+![correlation](https://github.com/cmyuan6/clim680_project/blob/main/correlation.png)
+
+With correlation, we see how ENSO is related to changes in precipitation. Positive correlations indicate that precipitation increases during El Niño events, when values are higher and decreases during La Niña events when values are lower. Negative correlations show the opposite pattern, where precipitation decreases during El Niño and increases during La Niña. Regions with values near zero suggest little to no relationship between precipitation anomalies and ENSO.
+
+In the tropical Pacific Ocean, strong positive correlations in the central and eastern Pacific reflect increased precipitation during El Niño, while negative correlations in the western Pacific indicate reduced precipitation. Along the western coast of South America, wetter conditions are associated with El Niño events. In contrast, parts of the Amazon basin show negative correlations, signaling drier conditions during the same periods.
+
+Southeast Asia and Australia are dominated by negative correlations, indicating less precipitation during El Niño. In Africa, eastern regions experience wetter conditions during El Niño, as shown by positive correlations, whereas southern Africa tends to be drier, reflected in negative correlations. North America presents a mixed pattern, with positive correlations in the southern U.S. and parts of Mexico, and negative correlations in the northern U.S. and Canada. Europe exhibits generally weak correlations, suggesting minimal direct influence from ENSO.
+
+The strongest ENSO-related impacts on precipitation are concentrated in the tropics and subtropics, where atmospheric circulation is most affected. In polar regions, correlations are weak or nonexistent, indicating limited ENSO influence.
