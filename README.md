@@ -18,7 +18,7 @@ Time series that uses rainfall data from the Tropical Pacific to characterize EN
 ENSO Indices Based on Patterns of Satellite-Derived Precipitation" Curtis and Adler in J. of Climate, 13,2786 (2000)
 
 # Results and Analyses
-Code can be found via: (https://github.com/cmyuan6/clim680_project/blob/main/project.ipynb)
+Code can be found at: https://github.com/cmyuan6/clim680_project/blob/main/project.ipynb
 ## Climatology
 
 ![A panel plot of the climatology of monthly terrestrial precipitation](https://github.com/cmyuan6/clim680_project/blob/main/monthly.png)
