@@ -11,4 +11,4 @@ It is a global gridded monthly land precipitation and temperature dataset.
 Time series that uses rainfall data from the Tropical Pacific to characterize ENSO events. This climate index measures the precipitation anomalies associated with El Niño and La Niña conditions. The index is widely used in climate studies to track ENSO phases and their associated precipitation variations across the Pacific region.
 # Results and Analyses
 ## Climatology
-[#clmonthly.png](https://github.com/cmyuan6/clim680_project/blob/main/monthly.png)
+![Alt text of the image](https://github.com/username/repository/blob/master/img/octocat.png)
