@@ -21,7 +21,7 @@ ENSO Indices Based on Patterns of Satellite-Derived Precipitation" Curtis and Ad
 Code can be found at: https://github.com/cmyuan6/clim680_project/blob/main/project.ipynb
 ## Climatology
 
-![A panel plot of the climatology of monthly terrestrial precipitation](https://github.com/cmyuan6/clim680_project/blob/main/monthly.png)
+![A panel plot of the climatology of monthly terrestrial precipitation]
 
 A panel plot of the global climatology of monthly averaged precipitation was created using the University of Delaware data. The precipitation levels are represented with a color gradient: yellow for low precipitation, orange to red for moderate precipitation, and purple to blue for high precipitation. The analysis reveals that tropical regions, such as the Amazon, Central Africa, and Southeast Asia, experience consistently high precipitation throughout the year, especially near the equator. In the Northern Hemisphere, higher precipitation is observed in the summer months (June–August), with a decline in winter (January–February). The Southern Hemisphere shows increased precipitation during its summer months (December–February) and lower levels during winter (June–August). Deserts, including the Sahara, Arabian Peninsula, and Australia, exhibit low precipitation year-round. Monsoon patterns, particularly in South Asia and parts of Africa, contribute to significant increases in precipitation between June and September. Regions like South America and parts of Africa display distinct wet and dry seasons, with noticeable shifts in precipitation levels throughout the year.
 
