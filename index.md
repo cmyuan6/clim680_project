@@ -18,9 +18,10 @@ Time series that uses rainfall data from the Tropical Pacific to characterize EN
 ENSO Indices Based on Patterns of Satellite-Derived Precipitation" Curtis and Adler in J. of Climate, 13,2786 (2000)
 
 # Results and Analyses
+Code can be found at: https://github.com/cmyuan6/clim680_project/blob/main/project.ipynb
 ## Climatology
 
-![A panel plot of the climatology of monthly terrestrial precipitation](https://github.com/cmyuan6/clim680_project/blob/main/monthly.png)
+![A panel plot of the climatology of monthly terrestrial precipitation](https://github.com/cmyuan6/clim680_project/blob/7f0d6ac1007ddc82b09c0376111836f003deb7f5/monthly.png)
 
 A panel plot of the global climatology of monthly averaged precipitation was created using the University of Delaware data. The precipitation levels are represented with a color gradient: yellow for low precipitation, orange to red for moderate precipitation, and purple to blue for high precipitation. The analysis reveals that tropical regions, such as the Amazon, Central Africa, and Southeast Asia, experience consistently high precipitation throughout the year, especially near the equator. In the Northern Hemisphere, higher precipitation is observed in the summer months (June–August), with a decline in winter (January–February). The Southern Hemisphere shows increased precipitation during its summer months (December–February) and lower levels during winter (June–August). Deserts, including the Sahara, Arabian Peninsula, and Australia, exhibit low precipitation year-round. Monsoon patterns, particularly in South Asia and parts of Africa, contribute to significant increases in precipitation between June and September. Regions like South America and parts of Africa display distinct wet and dry seasons, with noticeable shifts in precipitation levels throughout the year.
 
@@ -52,5 +53,3 @@ The strongest ENSO-related impacts on precipitation are concentrated in the trop
 ## Summary and Future Work
 
 This project explores the relationship between ENSO phases (El Niño, La Niña, and Neutral) and global precipitation patterns using the University of Delaware precipitation dataset and the ENSO precipitation index. The analysis highlights ENSO's significant influence, especially in tropical and subtropical regions. During El Niño, precipitation increases in the eastern Pacific and along the western coast of South America, while Australia, Southeast Asia, and parts of Africa experience drier conditions. In contrast, La Niña brings wetter conditions to Australia and Southeast Asia and drier conditions to the eastern Pacific. Neutral phases show minimal precipitation anomalies, emphasizing that the most pronounced effects occur during El Niño and La Niña events. Correlation analysis confirms these trends, with positive correlations in the central and eastern Pacific and negative correlations in the western Pacific and Australia, reflecting ENSO's impact on global precipitation patterns.
-
-Integrating SWOT data into the analysis has been challenging due to differences in data formats and temporal alignment with the precipitation datasets. The aim is to use SWOT data to identify areas where water surface elevation changes significantly during ENSO phases.
